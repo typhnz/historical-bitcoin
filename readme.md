@@ -1,3 +1,4 @@
+test.
 Coding Challenge: Analyze Historical Bitcoin Prices
 Objective:
 The goal of this challenge is to analyze historical Bitcoin prices and perform basic data manipulation tasks. You will work with a dataset containing daily Bitcoin prices, and your task will be to calculate key statistics, visualize trends, and derive insights from the data.
