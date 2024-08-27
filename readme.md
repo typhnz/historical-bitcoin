@@ -18,6 +18,7 @@ Visualize the Data:
 
 Plot the Bitcoin prices over time using a line chart.
 Create a histogram to show the distribution of daily price changes (i.e., the difference between the closing price of each day and the previous day).
+
 Moving Average Calculation:
 
 Calculate the 7-day and 30-day moving averages of Bitcoin prices.
